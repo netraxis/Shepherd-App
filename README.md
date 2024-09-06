@@ -1,4 +1,4 @@
-<p align="center"><img src="./screen1.png" width="100%"/></p>
+<p align="center"><img src="./public/screen1.png" width="100%"/></p>
 # Shepherd App (Front-end)
 
 This is the front-end app for ShepherdTutors, written in React and bootstrapped with `create-react-app`.

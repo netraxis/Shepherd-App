@@ -5,10 +5,9 @@ This is the front-end app for ShepherdTutors, written in React and bootstrapped 
 
 ## Launching project locally
 
-1. Pull the repository to your local environment by running `git pull https://github.com/shepherdtutors/shepherd-app.git` in your terminal.
-2. Run `npm install` to install the project's dependencies.
-3. Run `npm run prepare` to set up husky, which we use for pre-commits.
-4. Run `npm run start` to launch the project on `localhost:3000`.
+1. Run `npm install` to install the project's dependencies.
+2. Run `npm run prepare` to set up husky, which we use for pre-commits.
+3. Run `npm run start` to launch the project on `localhost:3000`.
    PRO-TIP: Favor `npm` over `yarn`. Funny things can happen when your package-lock.json clashes with this project's yarn.lock.
 
 ## Additional helpful scripts
